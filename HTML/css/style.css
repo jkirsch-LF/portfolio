@@ -3275,6 +3275,8 @@ ul.icon-tab-nav, .icon-tab-nav ul {
 
     .client-logo img {
         height: 100%;
+        width: 96%;
+        margin: 0 auto;
     }
 
 

@@ -1,9 +1,6 @@
 $(function () {
     "use strict";
 
-
-
-
     $(document).ready(function () {
         // Slider Default
         $('.intro-RevSlider').revolution({

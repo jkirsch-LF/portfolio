@@ -141,6 +141,7 @@ body {
     background-attachment: fixed;
 }
 
+
 .slide-bg-image {
     background-position: center center;
     background-repeat: no-repeat;
@@ -3950,6 +3951,9 @@ form .error {
             }
 
 /* Portfolio Single Page */
+
+
+
 #portfolio-single .portfolio-image-wrap {
     margin-bottom: 20px;
 }

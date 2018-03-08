@@ -65,6 +65,8 @@
 /* BASIC     ||---------------------------- */
 /*==========================================================================================================*/
 
+
+
 /*------------------------------------------------------------------*/
 /* General Style */
 /*------------------------------------------------------------------*/
@@ -138,6 +140,7 @@ body {
 #intro .bg-image, #intro.bg-image, #inner-intro .bg-image, #inner-intro.bg-image {
     background-attachment: fixed;
 }
+
 
 .slide-bg-image {
     background-position: center center;
@@ -3275,6 +3278,8 @@ ul.icon-tab-nav, .icon-tab-nav ul {
 
     .client-logo img {
         height: 100%;
+        width: 96%;
+        margin: 0 auto;
     }
 
 
@@ -3946,6 +3951,9 @@ form .error {
             }
 
 /* Portfolio Single Page */
+
+
+
 #portfolio-single .portfolio-image-wrap {
     margin-bottom: 20px;
 }
